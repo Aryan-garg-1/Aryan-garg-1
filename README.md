@@ -63,17 +63,13 @@ I'm a **Data Scientist and Machine Learning Engineer** currently pursuing my Mas
 > iOS app to connect gamers worldwide with safe, positive matchmaking.  
 `Swift` · `SwiftUI` · `Xcode`
 
-### 🦷 [ToothAid (Brush-it-up)](https://github.com/Aryan-garg-1/Brush-it-up)
+### 🦷 [ToothAid](https://github.com/Aryan-garg-1/Brush-it-up)
 > Gamified paediatric app encouraging healthy brushing habits in children.  
 `Swift` · `SwiftUI` · `UI/UX Design`
 
 ### 🖥️ [MacroServer](https://github.com/Aryan-garg-1/MacroServer)
 > Python-powered backend server for macro automation.  
 `Python`
-
-### 🎵 [Tuning_4k](https://github.com/Aryan-garg-1/Tuning_4k)
-> App helping amateur musicians record, create, and save music with lyrics.  
-`Swift` · `SwiftUI` · `AVFoundation`
 
 ### 🍎 [MAcroClient](https://github.com/Aryan-garg-1/MAcroClient)
 > macOS client application built in Swift.  
