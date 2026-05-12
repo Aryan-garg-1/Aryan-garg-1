@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Aryan 👋</h1>
 
 <p align="center">
-  <em>iOS & Python Developer · Building things that actually matter</em>
+  <em>Data Scientist / Machine Lelarning Engineer / Data Analyst / iOS Developer · Building things that actually matter</em>
 </p>
 
 <p align="center">
