@@ -1,10 +1,8 @@
 <h1 align="center">Hey, I'm Aryan Garg 👋</h1>
-
 <p align="center">
   <em>Data Scientist · ML Engineer · Data Analyst · iOS Developer</em><br/>
   <em>📍 Jaipur, India &nbsp;|&nbsp; 🎓 MSc Data Science @ Università di Napoli Federico II</em>
 </p>
-
 <p align="center">
   <a href="https://linkedin.com/in/aryan-garg-029b41233">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
@@ -59,12 +57,24 @@ I'm a **Data Scientist and Machine Learning Engineer** currently pursuing my Mas
 
 > iOS projects below were built during the **Apple Developer Academy Program**. Data Science projects coming soon — stay tuned!
 
+### 📡 [ChatApp](https://github.com/Aryan-garg-1/ChatApp)
+> Offline proximity-based chat app — talk to people nearby with no internet, no accounts, and no servers. Uses Apple's MultipeerConnectivity framework over Bluetooth and Wi-Fi Direct.  
+> **Solo Project**  
+`Swift` · `SwiftUI` · `MultipeerConnectivity` · `Xcode`
+
+### 🍃 [Leafy — Focus During Your Studies](https://github.com/Aryan-garg-1/Leafy)
+> iOS productivity app for university students to time study sessions, track breaks, and journal emotions after each session. Built with Core Data for persistent session history.  
+> **Team Project** *(Couch Potatoes — Laura, Giada, Aryan, Giuseppe, Jashwanth, Vamsi)*  
+`Swift` · `SwiftUI` · `Core Data` · `Xcode`
+
 ### 🎮 [MateZ](https://github.com/Aryan-garg-1/MateZ)
 > iOS app to connect gamers worldwide with safe, positive matchmaking.  
+> **Team Project** *(Apple Developer Academy)*  
 `Swift` · `SwiftUI` · `Xcode`
 
 ### 🦷 [ToothAid](https://github.com/Aryan-garg-1/Brush-it-up)
 > Gamified paediatric app encouraging healthy brushing habits in children.  
+> **Team Project** *(Apple Developer Academy)*  
 `Swift` · `SwiftUI` · `UI/UX Design`
 
 ### 🖥️ [MacroServer](https://github.com/Aryan-garg-1/MacroServer)
