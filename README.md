@@ -64,8 +64,8 @@ I'm a **Data Scientist and Machine Learning Engineer** currently pursuing my Mas
 
 ### 🍃 [Leafy — Focus During Your Studies](https://github.com/Aryan-garg-1/Leafy)
 > iOS productivity app for university students to time study sessions, track breaks, and journal emotions after each session. Built with Core Data for persistent session history.  
-> **Team Project** *(Apple Developer Academy)* 
-`Swift` · `SwiftUI` · `Core Data` · `Xcode`
+> **Team Project** *(Apple Developer Academy)*
+>`Swift` · `SwiftUI` · `Core Data` · `Xcode`
 
 ### 🎮 [MateZ](https://github.com/Aryan-garg-1/MateZ)
 > iOS app to connect gamers worldwide with safe, positive matchmaking.  
