@@ -25,7 +25,7 @@
 I'm a **Data Scientist and Machine Learning Engineer** currently pursuing my Master's in Data Science at the **University of Naples Federico II, Italy**. I bridge the gap between raw data and real-world products — from building predictive models to designing clean mobile interfaces.
 
 - 🤖 Passionate about **Machine Learning**, **Predictive Modeling**, and **Statistical Analysis**
-- 🗄️ Strong foundation in **SQL**, **Database Design**, and **Data Warehousing**
+- 🗄️ Strong foundation in **SQL**, **Database Design**
 - 📊 Love turning messy data into clear insights using **Pandas, NumPy, Matplotlib, Seaborn**
 - 🍎 iOS developer — built apps during the **Apple Developer Academy @ Federico II**
 - 🎨 Design-aware with experience in **Figma** and **Miro**
@@ -41,7 +41,7 @@ I'm a **Data Scientist and Machine Learning Engineer** currently pursuing my Mas
 | **Machine Learning** | Supervised & Unsupervised Learning · Predictive Modeling · Feature Engineering · Model Evaluation |
 | **Data Analysis** | Pandas · NumPy · Data Cleaning · Statistical Analysis |
 | **Data Visualization** | Matplotlib · Seaborn |
-| **Databases** | SQL · Database Design · Data Warehousing |
+| **Databases** | SQL · Database Design |
 | **iOS Development** | Swift · SwiftUI · Xcode |
 | **Tools & Design** | Git · GitHub · Figma · Miro |
 
@@ -51,7 +51,7 @@ I'm a **Data Scientist and Machine Learning Engineer** currently pursuing my Mas
 
 - 🎓 **MSc Data Science** — University of Napoli Federico II *(2021 – Present)*
 - 🎓 **BCA** — S.S. Jain Subodh P.G. Autonomous College, Jaipur *(2017 – 2020)*
-- 🍎 **Apple Developer Academy Program** — Federico II Apple Foundation Program
+- 🍎 **Apple Developer Academy Program**
 
 ---
 
@@ -91,15 +91,6 @@ I'm a **Data Scientist and Machine Learning Engineer** currently pursuing my Mas
 | [`/Data-Analysis`](./Data-Analysis/) | EDA, Pandas, NumPy, visualizations |
 | [`/Swift`](./Swift/) | iOS apps and SwiftUI components |
 | [`/Data-Structures`](./Data-Structures/) | Algorithms & CS fundamentals |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aryan-garg-1&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-garg-1&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
 
 ---
 
